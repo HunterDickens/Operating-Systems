@@ -1,0 +1,22 @@
+Script started on Tue Feb  6 11:49:58 2024
+Restored session: Tue Feb  6 11:49:33 EST 2024
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://Hunters-MacBook-Air.local/Users/hunter/Desktop/Spring%202024/Operating%20Systems/project1[0m[27m[24m[Jhunter@Hunters-MacBook-Air project1 % [K[?2004h../test_script.sh[1m [0m[0m [?2004l
+Test case 1: Copying a regular file
+./test_script.sh: line 26: ./filecopy: No such file or directory
+ls: testfile_copy.txt: No such file or directory
+Test case 2: Copying an empty directory
+./test_script.sh: line 32: ./filecopy: No such file or directory
+ls: emptydir_copy: No such file or directory
+Test case 3: Copying a directory with some files
+./test_script.sh: line 37: ./filecopy: No such file or directory
+ls: testdir_copy: No such file or directory
+Test case 4: Copying a directory with subdirectories and files
+./test_script.sh: line 44: ./filecopy: No such file or directory
+ls: testdir_with_subdir_copy: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://Hunters-MacBook-Air.local/Users/hunter/Desktop/Spring%202024/Operating%20Systems/project1[0m[27m[24m[Jhunter@Hunters-MacBook-Air project1 % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Feb  6 11:50:18 2024

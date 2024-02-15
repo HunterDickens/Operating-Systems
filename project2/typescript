@@ -1,0 +1,21 @@
+Script started on Sat Feb 10 14:13:05 2024
+Restored session: Sat Feb 10 14:12:29 EST 2024
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hunters-Air.lan/Users/hunter/Desktop/Spring%202024/Operating%20Systems/project2[0m[27m[24m[Jhunter@Hunters-Air project2 % [K[?2004h../run.sh[?2004l
+Running the producer...
+Running the consumer...
+Studying Operating Systems Is a blast!Running the unixpipe program...
+Child read: Greetings from Parent
+Parent read: Hello from Child
+Starting the Python server...
+The server is ready to receive
+Running the Python client...
+Input lowercase sentence: hunter
+From Server: HUNTER
+Stopping the Python server...
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Hunters-Air.lan/Users/hunter/Desktop/Spring%202024/Operating%20Systems/project2[0m[27m[24m[Jhunter@Hunters-Air project2 % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Feb 10 14:13:27 2024
